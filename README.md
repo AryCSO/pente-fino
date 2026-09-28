@@ -113,11 +113,3 @@ nunca são movidos, editados ou apagados.
 No Windows, desinstalar remove o app e o índice. No macOS, arrastar o app para
 o Lixo remove só o app — o índice fica na pasta acima até você apagá-la. Nos
 dois casos, os PDFs ficam intactos.
-
----
-
-<p align="center">
-  <sub>Vai compilar, testar ou mexer no código? Veja o
-  <a href="docs/DESENVOLVIMENTO.md">guia de desenvolvimento</a> e o
-  <a href="install/README.md">guia dos instaladores</a>.</sub>
-</p>
